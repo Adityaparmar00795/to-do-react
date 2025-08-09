@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+
+body {
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/1011/53/70/fantasy-art-lava-landscape-cherry-blossom-wallpaper-preview.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; 
+}
